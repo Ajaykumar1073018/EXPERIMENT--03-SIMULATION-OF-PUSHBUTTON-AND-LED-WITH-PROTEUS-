@@ -1,6 +1,6 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
-## NAME: MUKESH B
-## REGISTER NUMBER: 212223230128
+## NAME: AJAY KUMAR T
+## REGISTER NUMBER: 212223047001
 ## Aim: 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: 
